@@ -53,6 +53,7 @@ There are various components that you can use to display related content and lin
   <th width="20%">Type</th>
   <th>Description</th>
 </tr>
+
 </thead>
 <tbody>
   <tr>
