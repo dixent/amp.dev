@@ -50,6 +50,8 @@ Hay varios componentes que se pueden usar para mostrar contenidos y enlaces rela
   <th width="20%">Tipo</th>
   <th>Descripción</th>
 </tr>
+</thead>
+<tbody>
 <tr>
   <td>heading</td>
   <td>Permite indicar un encabezado que agrupe varios artículos.
@@ -138,8 +140,6 @@ Hay varios componentes que se pueden usar para mostrar contenidos y enlaces rela
   </figure>
   </td>
 </tr>
-</thead>
-<tbody>
 </tbody>
 </table>
 
